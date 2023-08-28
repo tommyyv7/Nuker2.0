@@ -1,3 +1,13 @@
-Hi User This is a Nuker2.0 Tool with this Tool you can nuked Discord Server Without Permission.
+Installation guide
 
-Creator zref.
+You need To install this 
+
+Than you need to give 
+
+Nuker.exe in your Desktop
+
+and than open it with Amministrator
+
+and thats it
+
+good luck.
